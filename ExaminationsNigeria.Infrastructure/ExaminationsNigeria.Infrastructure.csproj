@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExaminationsNigeria.Domain\ExaminationsNigeria.Domain.csproj" />
+    <ProjectReference Include="..\ExaminationsNigeria.Application\ExaminationsNigeria.Application.csproj" />
   </ItemGroup>
 
 </Project>
